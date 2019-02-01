@@ -51,7 +51,7 @@ Nesse projeto você desenvolverá um feed de posts estilo Facebook. Crie um layo
 ### Principal
 
 ![Main](/assets/main.png)
-Esta é a única tela, onde o usuário pode visualizar a lista estática criada.
+Esta é a única tela do site, onde aparecem os posts estáticos dos usuários.
 
 ## Desenvolvimento
 
