@@ -40,6 +40,8 @@ Nesse projeto você desenvolverá um feed de posts estilo Facebook. Crie um layo
 </ScrollView>
 ```
 
+## Índice
+
 - [Telas](#telas)
 
   - [Principal](#principal)
