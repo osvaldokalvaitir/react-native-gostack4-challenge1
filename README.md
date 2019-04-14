@@ -42,7 +42,7 @@ Nesse projeto você desenvolverá um feed de posts estilo Facebook. Crie um layo
 
 ## Índice
 
-- [Telas](#telas)
+- [Capturas de Tela](#capturas-de-tela)
 
   - [Principal](#principal)
 
@@ -54,11 +54,13 @@ Nesse projeto você desenvolverá um feed de posts estilo Facebook. Crie um layo
 
   - [Execução do Projeto](#execução-do-projeto)
 
+- [Utilizados no Projeto](#utilizados-no-projeto)
+
   - [Bibliotecas](#bibliotecas)
 
-  - [Outras Ferramentas](#outras-ferramentas)
+  - [Ferramentas](#ferramentas)
 
-## Telas
+## Capturas de Tela
 
 ### Principal
 
@@ -78,6 +80,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 ### Execução do Projeto
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-cli.md) e siga a Execução de Projeto.
+
+## Utilizados no Projeto
 
 ### Bibliotecas
 
@@ -99,6 +103,6 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [reactotron-react-native](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/reactotron-react-native.md)
 
-### Outras Ferramentas
+### Ferramentas
 
 - [Reactotron](https://github.com/osvaldokalvaitir/projects-settings/blob/master/inspector/reactotron.md)
