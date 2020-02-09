@@ -16,7 +16,7 @@ Aplicação usando React Native, ESLint, Prettier, EditorConfig, Babel Root Impo
 
 Crie uma aplicação do zero e configure o ESLint, EditorConfig, Reactotron, React DevTools e Babel Root Import. Assim que configurados, você deve reproduzir o layout abaixo utilizando FlexBox layout:
 
-![Feed](/assets/feed.png)
+![Feed](/.github/assets/feed.png)
 
 Nesse projeto você desenvolverá um feed de posts estilo Facebook. Crie um layout tentando chegar o mais próximo possível da imagem acima.
 
@@ -64,7 +64,7 @@ Nesse projeto você desenvolverá um feed de posts estilo Facebook. Crie um layo
 
 ### Principal
 
-![Main](/assets/main.png)
+![Main](/.github/assets/main.png)
 Esta é a única tela do site, onde aparecem os posts estáticos dos usuários.
 
 ## Desenvolvimento
